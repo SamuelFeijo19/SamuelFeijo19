@@ -1,12 +1,12 @@
 ## Olá, eu sou o Samuel! 👋
 
-##### Desenvolvedor Full Stack Junior 📍AC - Brasil 🇧🇷
+##### Desenvolvedor Full Stack 📍AC - Brasil 🇧🇷
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelFeijo19&show_icons=true&theme=dracula)
 
 ## Profissional / Acadêmico 👨‍💻
 
-- **Desenvolvedor Full Stack Junior**: Secretaria Municipal de Desenvolvimento Econômico, Tecnologia e Inovação (SDTI) - (2022 - Atulmente)
+- **Desenvolvedor Full Stack**: Secretaria Municipal de Desenvolvimento Econômico, Tecnologia e Inovação (SDTI) - (2022 - Atulmente)
 - **Superior em Sistemas Para Internet**: Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC) - (2022 - Atulmente)
 
 ## Tecnologias que utilizo diariamente
